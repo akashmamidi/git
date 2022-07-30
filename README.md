@@ -16,3 +16,14 @@ check for any changes and check current branch
 ```
 git status
 ```
+
+
+stang file for committing(select file for commit)
+```
+git add <file path with name & extensions>
+```
+
+commit selected files 
+```
+git commit -m "commit name"
+```
