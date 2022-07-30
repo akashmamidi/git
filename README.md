@@ -27,3 +27,8 @@ commit selected files
 ```
 git commit -m "commit name"
 ```
+
+push changes to github(remote repos)
+```
+git push
+```
