@@ -32,3 +32,11 @@ push changes to github(remote repos)
 ```
 git push
 ```
+To start the server
+```
+sbt "run 80" -jvm-debug 8888
+```
+
+
+
+
