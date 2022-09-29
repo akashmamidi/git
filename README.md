@@ -34,7 +34,7 @@ git push
 ```
 To start the server
 ```
-sbt "run 80" -jvm-debug 8888
+sbt "run 8086" -jvm-debug 9006
 ```
 
 
